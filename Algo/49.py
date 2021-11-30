@@ -29,4 +29,4 @@ class Solution:
             d[s].append(st)
 
         return d.values()
-# defaultdict.values() can return a list including all values 
+# defaultdict.values() can return a list including all values
